@@ -47,7 +47,3 @@ In this exercise, you’ll create a webpage for rating a video. The page will di
 **Note** The video playback and dropdown selection element is not supported in Live Preview.
 
 **Step 21:** Click the play button on the video and note the result.
-
-## Tips
-
- * Refer to your cheat sheets and glossary from previous lessons.
